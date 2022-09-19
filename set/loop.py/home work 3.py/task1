@@ -1,0 +1,10 @@
+print("inter the string you want to reverse")
+str=input()
+# remove all the space in the beaging and the end.
+str=str.strip()
+print(str)
+index=-1
+while index<=int(len(str)):
+   print (str[index])
+index+=-1
+     

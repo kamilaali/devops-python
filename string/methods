@@ -1,0 +1,3 @@
+s="python"
+s="pYthon"
+print(s.lower())

@@ -1,0 +1,7 @@
+print("enter the string value")
+str=input()
+print("starting text:")
+start=int(input())
+print("text end:")
+end=int(input())
+the_value_betweem=str[{start}-1:end]
